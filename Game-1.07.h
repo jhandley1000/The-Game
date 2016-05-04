@@ -56,7 +56,7 @@
 #define STUDENT_BQN 2
 #define STUDENT_MJ  3
 #define STUDENT_MTV 4
-#define STUDENT_MMONEY 5
+#define z 5
 
 #define NUM_REGIONS 19
 #define PATH_LIMIT 150
