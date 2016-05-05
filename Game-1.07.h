@@ -108,8 +108,6 @@ typedef struct _action {
                         // otherwise
    int disciplineFrom;  // used for the retrain students action
    int disciplineTo;    // used for the retrain students action
-   int diceScore;     // used for the current combined value of the dice
-   int regions[19];     // used to store each region on the game board
 } action;
 
 /* **** Functions which change the game aka SETTERS **** */
